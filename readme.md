@@ -1,11 +1,12 @@
-![github-background](https://i.imgur.com/OOpbGSf.jpg)
-# For you :)
+![github-background](https://i.imgur.com/3RK4T6b.jpg)
 <a href='https://t.me/nicitaacom'>
 <img style='width:180px;height:40px' src='https://i.imgur.com/SDUTsiD.jpg'>
 </a>
-
-<b>Portfolio - <a href='https://nicitaa.com' style='color:#c05cff'>nicitaa.com</a></b> <br/> <br/>
-<b>Telegram - <a href='https://t.me/nicitaacom' style='color:#c05cff'>t.me/nicitaacom</a></b> <br/> <br/>
-<b>Support - <a style='color:#c05cff'>support@nicitaa.com</a></b> <br/> <br/>
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://nicitaa.com'>
+<img style='width:170px;height:40px' src='https://i.imgur.com/c3I1LTJ.jpg'>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://gmail.com'>
+<img style='width:220px;height:40px' src='https://i.imgur.com/Pb8LWAA.jpg'>
+</a>
