@@ -1,5 +1,6 @@
 ![github-background](https://i.imgur.com/3RK4T6b.jpg)
-[link](https://google.com){:target="_blank"}
+[Link](https://example.org/ "title" target="_blank")
+
 <a href='https://t.me/nicitaacom'>
 <img style='width:180px;height:40px' src='https://i.imgur.com/SDUTsiD.jpg'>
 </a>
