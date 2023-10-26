@@ -3,8 +3,8 @@
 ### Stack - Next + TypeScript + tailwind + ...other
 
 ### Languages:
-Russian - native speaker
-Ukrainian - native speaker
-English - advanced
-German - advanced
-Polish - beginner
+Russian - native speaker<br/>
+Ukrainian - native speaker<br/>
+English - advanced<br/>
+German - advanced<br/>
+Polish - beginner<br/>
