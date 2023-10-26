@@ -1,10 +1,4 @@
 ![github-background](https://i.imgur.com/3RK4T6b.jpg)
-## Demo Markdown
-
-[button text‌](https://eddymens.com)
-
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
-
 <a href='https://t.me/nicitaacom'>
 <img style='width:180px;height:40px' src='https://i.imgur.com/SDUTsiD.jpg'>
 </a>
