@@ -1,4 +1,4 @@
-![github-background](https://i.imgur.com/HfXPTR6.jpeg)
+![github-background](https://i.imgur.com/SNbZQTF.jpeg)
 <a href='https://t.me/nicitaacom'>
 <img style='width:180px;height:40px' src='https://i.imgur.com/uKUZUdw.jpg'>
 </a>
