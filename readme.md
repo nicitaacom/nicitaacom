@@ -8,5 +8,5 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://gmail.com'>
-<img style='width:240px;height:40px' src='https://i.imgur.com/yp8lLRG.jpeg'>
+<img style='width:240px;height:40px' src='https://i.imgur.com/VdiBrbI.jpg'>
 </a>
